@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="Test.Commands/Test.Commands.csproj" Id="5e327d96-39be-4118-b739-b6569e6d8ed2" />
+  <Project Path="Test.Core/Test.Core.csproj" Id="0745ff75-d873-4953-b07d-e02a184c5a22" />
+  <Project Path="Test.EFEntities/Test.EFEntities.csproj" Id="38086669-0ac7-46d6-987c-b3d60ff1ccf8" />
+  <Project Path="Test.Interface/Test.Interface.csproj" Id="51bade9d-9914-46c9-83b4-6d30095202f6" />
+  <Project Path="Test.Queries/Test.Queries.csproj" Id="2c96e423-2b7e-4e4f-9a87-5517479989f4" />
+  <Project Path="Test.Service/Test.Service.csproj" Id="54da9379-300a-41d1-9f89-343f324991bf" />
+  <Project Path="Test.UnitTests/Test.UnitTests.csproj" Id="7fc570d2-1442-427c-916a-c031bccd82e5" />
+  <Project Path="TestApi/TestApi.csproj" />
+</Solution>
